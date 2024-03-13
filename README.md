@@ -10,7 +10,7 @@
 
     kloniranje bi bilo pozeljno napravit unutar xampp/htdocs foldera
      ```bash
-     git clone https://github.com/Zokky2e/lv1-nwp.git)https://github.com/Zokky2e/lv1-nwp.git
+     git clone https://github.com/Zokky2e/lv1-nwp.git
 
 2. **Kreiranje baze**
 
