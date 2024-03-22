@@ -1,6 +1,6 @@
 # Laboratorijska Vježba 1 - Napredno web programiranje
 
-## Upoznavanje sa kriptiranjem i parsiranjem podataka i datoteka
+## Upoznavanje sa klasama i spojem na bazu podataka, te socket i cURL
 
 ---
 
