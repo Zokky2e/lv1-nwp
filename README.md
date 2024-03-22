@@ -20,5 +20,5 @@
 
    na toj adresi kreirati bazu radovi te tablicu diplomski_radovi sa stupcima rad_id, naslov_rada, link_rada, oib_tvrtke, tekst_rada
 
-3. **Pokretanje prvog zadatka u browseru se radi tako da se ode na _localhost/lokacija-kloniranja/backup_task.php_**
+3. **Pokretanje prvog zadatka u browseru se radi tako da se ode na _localhost/lokacija-kloniranja/main.php_**
 
